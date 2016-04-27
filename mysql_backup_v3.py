@@ -12,8 +12,7 @@ from email.mime.text import MIMEText
 
 
 class Dbbackup():
-    def __init__(self):
-        self.dtime = time.strftime('%Y%m%d%H%M%S')
+
 
     @staticmethod
     def backup(dpath,db):
