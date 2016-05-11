@@ -1,10 +1,9 @@
 import smtplib
 from email.mime.text import MIMEText
 
-# send mails script and please use python3 run  
-# date: 2016-04-27
-# author: [yupozhang@gmail.com]
-
+# date : 2016-04-27
+# description: send mails script and please use python3 run  
+# author : 张玉坡(yupozhang@gmail.com)
 
 
 # _user = "z@y.com"

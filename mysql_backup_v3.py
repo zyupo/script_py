@@ -6,9 +6,9 @@ import threading
 import smtplib
 from email.mime.text import MIMEText
 
-# mysql db many thread backup script and please use python3 run 
-# date: 2016-04-27
-# author: [yupozhang@gmail.com]
+# date : 2016-05-11
+# description: mysql db many thread backup script and please use python3 run 
+# author : ÕÅÓñÆÂ(yupozhang@gmail.com)
 
 
 class Dbbackup():
