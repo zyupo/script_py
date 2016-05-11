@@ -7,8 +7,11 @@ from email.mime.text import MIMEText
 #import _mysql
 
 # date : 2016-05-11
+# environment : by python3.4.4
 # description: mysql slave Automatic detection slave error and Automatic repair
 # author : 张玉坡(yupozhang@gmail.com)
+# note: rely on mysqlclient and pip install mysqlclient
+
 
 #发送邮件
 class Servermail():
